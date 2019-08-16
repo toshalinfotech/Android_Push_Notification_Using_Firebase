@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536863314612",
+    "firebase_url": "https://testingfcmapi.firebaseio.com",
+    "project_id": "testingfcmapi",
+    "storage_bucket": "testingfcmapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536863314612:android:8299187b72825c5d",
+        "android_client_info": {
+          "package_name": "com.itw.firebasepushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536863314612-ski0c0l0ql3munjk08a7esqb09maca6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBt-80Kx0nyOPdS2JBGZHloqsWg0i378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536863314612-ski0c0l0ql3munjk08a7esqb09maca6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
