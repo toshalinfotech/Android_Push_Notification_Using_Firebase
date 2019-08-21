@@ -36,4 +36,4 @@ A notification is a message that Android displays outside your app’s UI to pro
 creating notification channel if android version is greater than or equals to oreo
 
 # Output:
-![out_put](app/src/main/res/drawable)
+![out_put](app/src/main/res/drawable/out_put.png)
